@@ -1,0 +1,212 @@
+
+#EXTM3U
+#SOURCEIT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=btv_sangshodh_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangladesh",Somoy TV 
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=somoy_tv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="Bangladesh",Independent TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=independent_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g7xebew4gotro8j/EB.png" group-title="Bangladesh",Desh TV 
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=desh_tv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor TV 
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ekattor_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladesh",DBC News 
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=dbc_news_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesh",News24
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=news24hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Bangladesh",Channel24
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=channel_24_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladesh",My TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=my_tv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangladesh",Bangla TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=bangla_tv_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesh",Boishakhi TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=boishakhi_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="Bangladesh",Bijoy TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=bijoy_tv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="Bangladesh",NTV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ntv_b_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="Indian-Bangla",Zee Bangla HD 
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=zee_bangla_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony AATH 
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_aath_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_b_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_b_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="Indian-Bangla",DD Bangla
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=dd_bangla_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Indian-Bangla",Ruposhi Bangla
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ruposhi__bangla_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/6VL1Ke9.jpg",Akash Aath
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=akash_aath_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="Indian-Bangla",Zee Cinema SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=zee_cinema_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Indian-Hindi",Sony Max HD 
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=set_max_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Sony_MAX.svg" group-title="Indian-Hindi",Sony Max SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_max_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png" group-title="Indian-Hindi",Sony Max 2
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_max_2_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Indian-Hindi",Colors
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Indian-Hindi",Colors HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Indian-Hindi",Sony Entertainment HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_entertainmnt_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Indian-Hindi",Sony Entertainment SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_entertainment_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Indian-Hindi",Sony SAB HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_sab_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Indian-Hindi",Sony SAB SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_sab_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Indian-Hindi",Zee TV HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=zee_tv_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="Indian-Hindi",Zee TV SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=Zee_TV_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Indian-Hindi",Zee Action
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=zee_action_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="Indian-Hindi",And TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=atv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Indian-Hindi",Bflix Movies
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=bflix_sd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/A-Plus_TV_Logo.png" group-title="Indian-Hindi",A Plus
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=a_plus_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="Indian-Hindi",News24 india
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=news_24_india_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755457s.png" group-title="Indian-Hindi",Sony Pal
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_pal_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="Indian-Hindi",Sony Wah
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_wah_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Indian-Hindi",Colors Infinity HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_infinity_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png/revision/latest?cb=20190307235506" group-title="Indian-Hindi",Colors Rishtey
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_rishtey_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Ia56aENNByQ8KvWzK0RZfmQABXepDPyWDMoylqsUv2a0J0JeVE_q4NGO3c7y3RKa0Dc&usqp=CAU" group-title="Pakistan",PTV World
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ptv_world_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://www.geo.tv/assets/front/images/geo-logo.svg" group-title="Pakistan",Geo News
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=geo_news_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="Pakistan",ARY News Asia
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ary_news_asia_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/ARY_Digital_Logo_2.png/150px-ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital Asia
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ary_digital_asia_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWbFQMS.jpg" group-title="Pakistan",ARY Family
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ary_family_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindegi
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ary_zindegi_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Pakistan",Hum Masala
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=hum_masala_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=discovery_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentary",Discovery Science
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=dis_sci_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Documentary",Discovery Turbo
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=dis_turbo_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",TLC HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=tlc_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%A0%D0%A2%D0%A0.png/200px-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%A0%D0%A2%D0%A0.png" group-title="Documentary",RTR Planeta
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=rtr_planet_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Documentary",Sony BBC Earth HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_bbc_earth_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Documentary",Sony BBC Earth SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_bbc_earth_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="Music",Zing SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=zing_sd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="Music",Ary Music
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ary_music_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="Music",Dhoom Music
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=dhoom_music_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/MTV_Logo.svg" group-title="Music",MTV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=mtv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest/scale-to-width-down/340?cb=20191227125237" group-title="Music",MTV Beats HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=mtv_beats_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kavMAI.png" group-title="English",Wion
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=wion_tv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g7xebew4gotro8j/EB.png" group-title="English",Aljazeera SD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=aljazeera_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="English",TV5MONDE ASIE
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=tv5_monde_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="English",Russia Today
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=russia_today_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="English",DW
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=dw_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s900-c-k-c0x00ffffff-no-rj" group-title="English",Euro News
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=euro_news_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJ4HZSEOLozatNYI8UZlpyXdtmvd7GNF9bDwe7wA=s900-c-k-c0x00ffffff-no-rj" group-title="English",Arirang TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=arirang_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="English",NHK World Japan
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=nhk_world_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/CCTV4.png" group-title="English",CCTV4
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=cctv_4_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="English",CGTN
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=cgtn_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="English",Lotus Macau
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=lotus_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="English",Rai Italia
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=rai_italia_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="" group-title="English",E24
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=e24_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/E24_Bollywood_logo.svg/1200px-E24_Bollywood_logo.svg.png" group-title="English",Comedy Central HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=comedy_central_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/220px-VH1_logonew.svg.png" group-title="English",VH1 HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=vh1_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uT41kj.png" group-title="Islamic",Sunnah TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sunnah_tv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Islamic",Quran TV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=quran_tv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png" group-title="Islamic",Ary QTV
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ary_qtv_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Sports",Sports LIVE 1
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sports_live_01_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniK2fdrV2deS_O6jtRD2382-d43D5WL1Szhb9IyNg=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Sports LIVE 2
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sports_live_02_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten1_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 2 HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten2_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 3 HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten3_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_ten3_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids",Nick HD+
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=nick_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids",Nick
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=nick_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="Kids",Nick JR.
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=nick_junior_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",Sony Yay
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_yay_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=discovery_kids_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sonic_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
+
+
+
+All Channels Are Adding So Stay Tune
+I Am Trying To Bring You Toffee Running On Your PC Or Laptop 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
